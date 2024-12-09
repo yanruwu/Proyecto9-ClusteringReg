@@ -38,8 +38,6 @@ Según la estrategia a tomar, se realizó un preprocesamiento en base a esta y s
 Por último se entrenaron diferentes modelos sobre cada uno de los datasets diferentes surgidos de la clusterización, lo cual nos permitió obtener insights valiosos para la toma de decisiones dentro de la empresa.
 
 
-## **Estructura del Proyecto** 🗂️
-
 
 ## Estructura del Proyecto 🗂️
 ```
