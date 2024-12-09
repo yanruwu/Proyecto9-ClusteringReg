@@ -177,3 +177,12 @@ Se realizaron agrupaciones (clusters) basadas en variables como rentabilidad (`p
 - **Cluster 0:** Reducir descuentos y optimizar la logística para mejorar márgenes. Considerar ajustes de precios o descontinuar productos poco rentables.
 - **Cluster 1:** Enfocar esfuerzos en maximizar ventas con descuentos estratégicos y mantener la optimización logística.
 
+## Próximos Pasos 🔍
+
+1. **Mejoras en los modelos**: Explorar en más detalle factores que puedan influir a los modelos para reducir error.
+2. **Clustering por producto**: Explorar opciones de agrupamiento por productos para clasificarlos según rentabilidad.
+
+## 🤝 Contribuciones
+
+Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, por favor abre un pull request o una issue.
+
